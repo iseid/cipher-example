@@ -1,7 +1,7 @@
 # cipher-example
 encrypt and decrypt strings and text files 
 
-Caesar Cipher takes an input string and either encrypts or decrypts the string according to a shift specified in the constructor
+Caesar Cipher takes an input string and either encrypts or decrypts the string according to a shift specified by the user
 
 Polyalphabetic Cipher uses a key to encrypt or decrypt a string. Character values are shifted according to the key.
 
